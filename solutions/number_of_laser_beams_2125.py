@@ -5,9 +5,6 @@ class Solution(object):
         :rtype: int
         """
 
-        # for the top row, we can mark the column as a laser beam. 
-        # then for intermediate lazers
-
         lasers = 0 
         prev_level_count = 0 
 
